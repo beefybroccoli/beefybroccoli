@@ -6,11 +6,18 @@ put my projects and ongoing projects here
 I am a developer, and data analytic. My life purpose to better the world by solving one problem at a time.
 
 ## My ongoing projects
-  - <p><a href="https://www.google.com">(link 1)</a></p>
-  - <p><a href="https://www.google.com">(link 2)</a></p>
+  
+  ### <p><a href="https://www.google.com">(link 1)</a></p>
+    #### project description
+  
+  ### <p><a href="https://www.google.com">(link 2)</a></p>
+    #### project description
   
 ## My completed projects
-  - <p><a href="https://www.google.com">(project 1)</a></p>
+
+    ### <p><a href="https://www.google.com">(project 1)</a></p>
+      #### project description
+    
 
 
 ref
