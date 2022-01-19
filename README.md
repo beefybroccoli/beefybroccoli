@@ -18,7 +18,18 @@ I am a developer, and data analytic. My life purpose to better the world by solv
     ### <p><a href="https://www.google.com">(project 1)</a></p>
       #### project description
     
+## Programming Languages
+  - JavaScript
+  - Python
+  - HTML
+  - CSS
 
+## Framework & Tools
+  - React
+  - Redux
+  - Knex
+  - NodeJS
+  - Express
 
 ref
 https://raw.githubusercontent.com/KrauseFx/markdown-to-html-github-style/master/README.md
