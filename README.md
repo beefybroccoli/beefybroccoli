@@ -7,7 +7,7 @@ I am a developer, and data analytic. My life purpose to better the world by solv
 
 ## How to contact Me
 
-  please feel free to text or connect with me through <a href="https://www.linkedin.com/in/ted-kim-704974138/">(link 1)</a>.
+  please feel free to text or connect with me through <a href="https://www.linkedin.com/in/ted-kim-704974138/">LinkedIn</a>.
     
 
 ## My ongoing projects
