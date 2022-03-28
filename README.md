@@ -3,7 +3,18 @@ put my projects and ongoing projects here
 
 ## About Me
 
-I am a developer, and data analytic. My life purpose to better the world by solving one problem at a time.
+I  enjoy building web pages and web applications. Additionally, I love analyzing, solving problems, and sharing my approaches to different solutions.
+
+In my spare time, 
+* I find new solutions to the current problems and resharpen my skillsets
+* sharpening my Linux OS and server management skills
+* deploying web applications and testing web security
+
+My skillsets include:
+_Programming Languages: Node Js, JavaScript, CSS, SQL
+_Cloud: Heroku, AWS
+_Tools: Git, Microsoft Office, React, Redux, Context API, PostgreSQL.
+_Libraries: knex
 
 ## How to contact Me
 
