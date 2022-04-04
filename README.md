@@ -8,19 +8,19 @@ As a new graduate of Blootech bootcamp, I have obtained equivalent of two years 
 
 Technical Qualification:
 <li>
-_Devloped front-end application, back-end application, unit testing, end-to-end testing, integrated testing, REST API endpoint
+Devloped front-end application, back-end application, unit testing, end-to-end testing, integrated testing, REST API endpoint
   </li>
   <li>
-_Programming Languages: Node Js, JavaScript, HTML, CSS, SQL  
+Programming Languages: Node Js, JavaScript, HTML, CSS, SQL  
   </li>
   <li>
-_Cloud: Heroku, AWS, Vercel  
+Cloud: Heroku, AWS, Vercel  
   </li>
   <li>
-_Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context API, PostgreSQL, Docker  
+Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context API, PostgreSQL, Docker  
   </li>
   <li>
-_Libraries: knex, Redux, Context API, Express  
+Libraries: knex, Redux, Context API, Express  
   </li>
   
 ## How to contact Me
