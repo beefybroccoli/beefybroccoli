@@ -10,11 +10,19 @@ Technical Qualification:
 <li>
 _Devloped front-end application, back-end application, unit testing, end-to-end testing, integrated testing, REST API endpoint
   </li>
-_Programming Languages: Node Js, JavaScript, HTML, CSS, SQL
-_Cloud: Heroku, AWS, Vercel
-_Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context API, PostgreSQL, Docker
-_Libraries: knex, Redux, Context API, Express
-
+  <li>
+_Programming Languages: Node Js, JavaScript, HTML, CSS, SQL  
+  </li>
+  <li>
+_Cloud: Heroku, AWS, Vercel  
+  </li>
+  <li>
+_Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context API, PostgreSQL, Docker  
+  </li>
+  <li>
+_Libraries: knex, Redux, Context API, Express  
+  </li>
+  
 ## How to contact Me
 
   please feel free to text or connect with me through <a href="https://www.linkedin.com/in/ted-kim-704974138/">LinkedIn</a>.
