@@ -1,6 +1,3 @@
-(ReadMe content)
-put my projects and ongoing projects here
-
 ## About Me
 
 I develop Full Stack applications for the users to consume and use actionable data to make better decisions and automate repetitive tasks. To make a scalable, securable, maintainable, and usable application, I enjoy collaborating with other professionals, including, but not limited to data scientist, system engineer, and UX/UI designer.
