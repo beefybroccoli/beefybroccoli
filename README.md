@@ -3,18 +3,17 @@ put my projects and ongoing projects here
 
 ## About Me
 
-I  enjoy building web pages and web applications. Additionally, I love analyzing, solving problems, and sharing my approaches to different solutions.
+I develop Full Stack applications for the users to consume and use actionable data to make better decisions and automate repetitive tasks. To make a scalable, securable, maintainable, and usable application, I enjoy collaborating with other professionals, including, but not limited to data scientist, system engineer, and UX/UI designer.
 
-In my spare time, 
-* I find new solutions to the current problems and resharpen my skillsets
-* sharpening my Linux OS and server management skills
-* deploying web applications and testing web security
+In my spare time, I experiment and develop with new technologies. These technologies include Linux OS, cloud services, Amazon web services, containers, and related web driven solutions.
 
-My skillsets include:
-_Programming Languages: Node Js, JavaScript, CSS, SQL
-_Cloud: Heroku, AWS
-_Tools: Git, Microsoft Office, React, Redux, Context API, PostgreSQL.
-_Libraries: knex
+As a new graduate of Blootech bootcamp, I have obtained equivalent of two years development experiences in both frontend and backend applications. I am ready to tackle new challenges in all aspects of full stack application development. Additionally, I am proficient in writing test suits to test a web application in various scales, unit testing, integrated testing, backend test, end-to-end testing.
+
+Technical Qualification:
+_Programming Languages: Node Js, JavaScript, HTML, CSS, SQL
+_Cloud: Heroku, AWS, Vercel
+_Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context API, PostgreSQL, Docker
+_Libraries: knex, Redux, Context API, Express
 
 ## How to contact Me
 
@@ -32,12 +31,7 @@ _Libraries: knex
 ## My completed projects
 
     ### <p><a href="https://www.google.com">(project 1)</a></p>
-      #### project description
-    
-Programming Languages : JavaScript, Python, HTML, CSS
-
-Framework : React, NodeJS, Express
-Libraries : Redux, Knex
+      #### project description   
 
 ref
 https://raw.githubusercontent.com/KrauseFx/markdown-to-html-github-style/master/README.md
