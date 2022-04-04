@@ -7,7 +7,9 @@ In my spare time, I experiment and develop with new technologies. These technolo
 As a new graduate of Blootech bootcamp, I have obtained equivalent of two years development experiences in both frontend and backend applications. I am ready to tackle new challenges in all aspects of full stack application development. Additionally, I am proficient in writing test suits to test a web application in various scales, unit testing, integrated testing, backend test, end-to-end testing.
 
 Technical Qualification:
+<li>
 _Devloped front-end application, back-end application, unit testing, end-to-end testing, integrated testing, REST API endpoint
+  </li>
 _Programming Languages: Node Js, JavaScript, HTML, CSS, SQL
 _Cloud: Heroku, AWS, Vercel
 _Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context API, PostgreSQL, Docker
