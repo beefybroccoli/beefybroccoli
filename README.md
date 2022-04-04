@@ -26,20 +26,6 @@ Libraries: knex, Redux, Context API, Express
 ## How to contact Me
 
   please feel free to text or connect with me through <a href="https://www.linkedin.com/in/ted-kim-704974138/">LinkedIn</a>.
-    
-
-## My ongoing projects
-  
-  ### <p><a href="https://www.google.com">(link 1)</a></p>
-    #### project description
-  
-  ### <p><a href="https://www.google.com">(link 2)</a></p>
-    #### project description
-  
-## My completed projects
-
-    ### <p><a href="https://www.google.com">(project 1)</a></p>
-      #### project description   
 
 ref
 https://raw.githubusercontent.com/KrauseFx/markdown-to-html-github-style/master/README.md
