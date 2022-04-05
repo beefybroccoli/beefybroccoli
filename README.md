@@ -22,6 +22,7 @@ Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context A
   <li>
 Libraries: knex, Redux, Context API, Express  
   </li>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   
 ## How to contact Me
 
