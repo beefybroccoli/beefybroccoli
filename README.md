@@ -12,18 +12,6 @@ Technical Qualification:
 Devloped front-end application, back-end application, unit testing, end-to-end testing, integrated testing, REST API endpoint
   </li>
   <li>
-Programming Languages: Node Js, JavaScript, HTML, CSS, SQL  
-  </li>
-  <li>
-Cloud: Heroku, AWS, Vercel  
-  </li>
-  <li>
-Tools: Git Command Line, Github, Zoom, Microsoft Office, React, Redux, Context API, PostgreSQL, Docker  
-  </li>
-  <li>
-Libraries: knex, Redux, Context API, Express  
-  </li>
-  <li>
   Programming Languages: 
     <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="sqlite" width="25" height="25"/> </a>
   <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -49,8 +37,7 @@ Libraries: knex, Redux, Context API, Express
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="" width="40" height="40"/> </a>
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="" width="40" height="40"/> </a>
   </li>
-  </li>
-        
+
 ## How to contact Me
 
 please feel free to text or connect with me through <a href="https://www.linkedin.com/in/ted-kim-704974138/">LinkedIn</a>.
