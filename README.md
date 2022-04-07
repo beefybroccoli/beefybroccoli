@@ -33,12 +33,12 @@ Libraries: knex, Redux, Context API, Express
   </li>
   <li>
   Cloud: <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/1280px-Heroku_logo.svg.png" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1364/0*2ui893KAwAT_F9wz.gif" alt="" width="40" height="40"/> </a>
+  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1364/0*2ui893KAwAT_F9wz.gif" alt="" width="80" height="40"/> </a>
   </li>
   <li>
   Tools : <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://tatsuno-system.co.jp/wp-content/uploads/2020/06/git-command.png" alt="" width="40" height="40"/> </a>
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://www.businessnewsdaily.com/images/i/000/017/338/original/zoom.jpg" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Office_365_app_logos.svg/450px-Office_365_app_logos.svg.png" alt="" width="40" height="40"/> </a>
+  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Office_365_app_logos.svg/450px-Office_365_app_logos.svg.png" alt="" width="80" height="40"/> </a>
   
   
   <li>
@@ -50,22 +50,7 @@ Libraries: knex, Redux, Context API, Express
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="" width="40" height="40"/> </a>
   </li>
   </li>
-  
-  
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-    
+        
 ## How to contact Me
 
 please feel free to text or connect with me through <a href="https://www.linkedin.com/in/ted-kim-704974138/">LinkedIn</a>.
