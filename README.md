@@ -25,18 +25,18 @@ Libraries: knex, Redux, Context API, Express
   </li>
   <li>
   Programming Languages: 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="sqlite" width="25" height="25"/> </a>
+    <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="sqlite" width="25" height="25"/> </a>
   <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAGEljIi_pvDvnziO4KQ4ugnPMHMHbACgQKR73yf0H2bUZ0cZUhppJH7R9sP1hkrTu1w&usqp=CAU" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHu3R4fqUiyhV9mnSllT5Wi9UFWsEJF5oW-C-wZtMzqHTQnfkMi6Y8NcAIxqUSoJgSiUo&usqp=CAU" alt="" width="40" height="40"/> </a>
   </li>
   <li>
-  Cloud: <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/1280px-Heroku_logo.svg.png" alt="" width="40" height="40"/> </a>
+  Cloud: <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/1280px-Heroku_logo.svg.png" alt="" width="80" height="40"/> </a>
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1364/0*2ui893KAwAT_F9wz.gif" alt="" width="80" height="40"/> </a>
   </li>
   <li>
-  Tools : <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://tatsuno-system.co.jp/wp-content/uploads/2020/06/git-command.png" alt="" width="40" height="40"/> </a>
+  Tools : <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://tatsuno-system.co.jp/wp-content/uploads/2020/06/git-command.png" alt="" width="40" height="40"/> </a>
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://www.businessnewsdaily.com/images/i/000/017/338/original/zoom.jpg" alt="" width="40" height="40"/> </a>
   <a href="https://www.w3c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Office_365_app_logos.svg/450px-Office_365_app_logos.svg.png" alt="" width="80" height="40"/> </a>
   
